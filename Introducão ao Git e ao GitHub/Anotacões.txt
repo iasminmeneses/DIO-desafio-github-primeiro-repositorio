@@ -1,3 +1,18 @@
 Link para dowload do Git: https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizaro uso do Git.
+
+Alguns comandos úteis: 
+
+- ls (lista todas as pasta que estão naquele local).
+- ls-a (flag para exibir pasta oculta).
+- cd (abre a pasta).
+- Ctrl (limpa tudo).
+
+Resumo:
+Commits são objetos do Git que dão significado as alterações.Os objetos em si carregam uma mensagem de texto juntamente com outros metadados como autor/hora que o comando foi criado).
+
+Iniciar o Git: comando git init.
+Iniciar o versionamento: comando git add.
+Inciar a criação commit: git commit. 
+Mostrar o status do arquivo: git status.
